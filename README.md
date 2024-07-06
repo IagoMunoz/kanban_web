@@ -31,7 +31,7 @@ Ao entrar no link local iniciado pelo Vite (padrão: http://localhost:5173), o u
 
 Após autenticação, ele será redirecionado para tela Home, onde terá acesso aos seus Kanbans e poderá acessá-los clicando neles, ou também, criar/excluir os boards clicando em seus respectivos botões.
 
-Ao acessar um Kanban específico, o usuário pode adicionar novas tarefas clicando no botão de "+". Clicando na tarefa, é possível editar ou excluir e para mudar a task de coluna, é necessário apenas arrastar de um campo para o outro. Na barra superior, estão disponíveis três opções, uma para voltar para a home, a opção de compartilhar o Kanban inserindo o email de um colaborador e o botão para salvar as alterações do board.
+Ao acessar um Kanban específico, o usuário pode adicionar novas tarefas clicando no botão de "+". Clicando na tarefa, é possível editar ou excluir e para mudar a task de lista, é necessário apenas arrastar de um campo para o outro. Na barra superior, estão disponíveis três opções, uma para voltar para a home, a opção de compartilhar o Kanban inserindo o email de um colaborador e o botão para salvar as alterações do board.
 
 Todas as partes autenticadas da aplicação possuem uma Navbar, a qual no lado esquerdo redireciona para a Home ao clicar na logo do Kanbanana e no lado direito tem os botões de acessar o perfil e fazer Signout.
 
